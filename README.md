@@ -1,2 +1,2 @@
 # pixi
-pixie-study
+pixi-study
